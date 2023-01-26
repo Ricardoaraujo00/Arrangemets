@@ -1,0 +1,15 @@
+C:\Users\Ricardo\source\repos\Arrangemets\Arrangemets\bin\Debug\net6.0\Arrangemets.exe
+C:\Users\Ricardo\source\repos\Arrangemets\Arrangemets\bin\Debug\net6.0\Arrangemets.deps.json
+C:\Users\Ricardo\source\repos\Arrangemets\Arrangemets\bin\Debug\net6.0\Arrangemets.runtimeconfig.json
+C:\Users\Ricardo\source\repos\Arrangemets\Arrangemets\bin\Debug\net6.0\Arrangemets.dll
+C:\Users\Ricardo\source\repos\Arrangemets\Arrangemets\bin\Debug\net6.0\Arrangemets.pdb
+C:\Users\Ricardo\source\repos\Arrangemets\Arrangemets\obj\Debug\net6.0\Arrangemets.csproj.AssemblyReference.cache
+C:\Users\Ricardo\source\repos\Arrangemets\Arrangemets\obj\Debug\net6.0\Arrangemets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo\source\repos\Arrangemets\Arrangemets\obj\Debug\net6.0\Arrangemets.AssemblyInfoInputs.cache
+C:\Users\Ricardo\source\repos\Arrangemets\Arrangemets\obj\Debug\net6.0\Arrangemets.AssemblyInfo.cs
+C:\Users\Ricardo\source\repos\Arrangemets\Arrangemets\obj\Debug\net6.0\Arrangemets.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\Arrangemets\Arrangemets\obj\Debug\net6.0\Arrangemets.dll
+C:\Users\Ricardo\source\repos\Arrangemets\Arrangemets\obj\Debug\net6.0\refint\Arrangemets.dll
+C:\Users\Ricardo\source\repos\Arrangemets\Arrangemets\obj\Debug\net6.0\Arrangemets.pdb
+C:\Users\Ricardo\source\repos\Arrangemets\Arrangemets\obj\Debug\net6.0\Arrangemets.genruntimeconfig.cache
+C:\Users\Ricardo\source\repos\Arrangemets\Arrangemets\obj\Debug\net6.0\ref\Arrangemets.dll
